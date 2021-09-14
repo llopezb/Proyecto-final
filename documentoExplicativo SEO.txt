@@ -1,0 +1,54 @@
+En el archivo index.html sume al SEO con las siguientes caracteristicas:
+
+- Descripcion: mediante la etiqueta meta name description, agregue el siguiente parrafo que resume en pocas palabras el contenido de mi sitio:
+"Seguimiento de buques aviones camiones globales Argentina".
+
+-Keywords: mediante la etiqueta meta name keywords, agregue as mismas que acompañaran esta seccion de mi sitio:
+"envios, comercio exterior, maritimas, navieras, lineas aereas, camiones".
+
+-Encabezado: para mi encabezado h1 utilice el texto "Tu web de seguimiento"
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+En el archivo Contacto.html sume al SEO con las siguientes caracteristicas:
+
+- Descripcion: mediante la etiqueta meta name description, agregue el siguiente parrafo que resume en pocas palabras el contenido de mi sitio:
+"Seguimiento de buques aviones camiones globales Argentina">.
+
+-Keywords: mediante la etiqueta meta name keywords, agregue as mismas que acompañaran esta seccion de mi sitio:
+"envios, comercio exterior, maritimas, navieras, lineas aereas, camiones , contacto, soporte
+
+-Encabezado: para mi encabezado h1 utilice el texto "Tu web de seguimiento"
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+En el archivo Contenedores.html sume al SEO con las siguientes caracteristicas:
+
+- Descripcion: mediante la etiqueta meta name description, agregue el siguiente parrafo que resume en pocas palabras el contenido de mi sitio:
+ "Tipo de contenedores maritimos"
+
+-Keywords: mediante la etiqueta meta name keywords, agregue as mismas que acompañaran esta seccion de mi sitio:
+"High Cube, Open Top,Open Side,Reefer,Flat Rack,Tank o Contenedor cisterna,Flexi-Tank"
+
+-Encabezado: para mi encabezado h1 utilice el texto "Tu web de seguimiento"
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+En el archivo Nosotros.html sume al SEO con las siguientes caracteristicas:
+
+- Descripcion: mediante la etiqueta meta name description, agregue el siguiente parrafo que resume en pocas palabras el contenido de mi sitio:
+"Seguimiento de buques aviones camiones globales Argentina".
+
+-Keywords: mediante la etiqueta meta name keywords, agregue as mismas que acompañaran esta seccion de mi sitio:
+"envios, comercio exterior, maritimas, navieras, lineas aereas, camiones , nuestra historia".
+
+-Encabezado: para mi encabezado h1 utilice el texto "Tu web de seguimiento"
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+En el archivo Promociones.html sume al SEO con las siguientes caracteristicas:
+
+- Descripcion: mediante la etiqueta meta name description, agregue el siguiente parrafo que resume en pocas palabras el contenido de mi sitio:
+"Seguimiento de buques aviones camiones globales Argentina"
+
+-Keywords: mediante la etiqueta meta name keywords, agregue as mismas que acompañaran esta seccion de mi sitio:
+"beneficios, descuentos"
+
+-Encabezado: para mi encabezado h1 utilice el texto "Tu web de seguimiento"

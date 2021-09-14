@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+$bg-white: whitesmoke;
+
+$p: 1em;
+$mb:0.7em;
+
+@for $i from 1 to 5 {
+    h#{$i} {
+        font-size: 5.5em -$i
+    }
+}
+
+
+@mixin p-m($relleno, $margen) {
+    padding: $relleno;
+    margin: $margen;
+}
+
+
+.scale:hover {
+    transform: scale(1.1, 1.1);
+    cursor: pointer;
+}
+
+.mixinUno {
+    @include p-m(2em, 0.5em);
+}
+
+
+
+
+@media (max-width: 768px) {
+    .subTitulo {
+        font-size: 3em;
+    }
+    .media {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 991px) {
+    .media2 {
+        display: flex;
+        justify-content: center;
+    }
+}
